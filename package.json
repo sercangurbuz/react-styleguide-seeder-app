@@ -33,9 +33,7 @@
     "sass-loader": "^7.0.1",
     "style-loader": "^0.21.0",
     "webpack": "^4.9.1",
-    "webpack-cli": "^2.1.4"
-  },
-  "devDependencies": {
+    "webpack-cli": "^2.1.4",
     "webpack-dev-server": "^3.1.5",
     "webpack-hot-middleware": "^2.22.3",
     "react-hot-loader": "^4.1.2"

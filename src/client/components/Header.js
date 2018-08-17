@@ -5,7 +5,8 @@ class Header extends Component {
   render() {
     return (
       <div>
-        <NavLink to="/customers">Customers</NavLink>
+        <NavLink to="/customers">Customers</NavLink> |
+        <NavLink to="/orders">Orders</NavLink>
       </div>
     );
   }
